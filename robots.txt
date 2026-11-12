@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tabisaki123.github.io/tabisaki-no-real/sitemap.xml
